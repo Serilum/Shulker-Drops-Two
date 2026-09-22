@@ -1,5 +1,5 @@
 <h2>Shulker Drops Two</h2>
-<p><a href="https://github.com/Serilum/Shulker-Drops-Two"><img src="https://serilum.com/assets/images/logo/shulker-drops-two.png"></a></p><h2>Download</h2>
+<p><a href="https://github.com/Serilum/Shulker-Drops-Two"><img src="https://workflow.serilum.com/web/logo/128/shulker-drops-two.png" width="100" height="100"></a></p><h2>Download</h2>
 <p>You can download Shulker Drops Two on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/minecraft/mc-mods/shulker-drops-two">https://curseforge.com/minecraft/mc-mods/shulker-drops-two</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/mod/shulker-drops-two">https://modrinth.com/mod/shulker-drops-two</a></p>
 <h2>Issue Tracker</h2>
 <p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>
