@@ -1,6 +1,6 @@
-package com.natamus.shulkerdropstwo.neoforge.events;
+package com.serilum.shulkerdropstwo.neoforge.events;
 
-import com.natamus.shulkerdropstwo.events.ShulkerEvent;
+import com.serilum.shulkerdropstwo.events.ShulkerEvent;
 import net.minecraft.world.entity.Entity;
 import net.neoforged.neoforge.event.entity.living.LivingDropsEvent;
 import net.neoforged.bus.api.SubscribeEvent;

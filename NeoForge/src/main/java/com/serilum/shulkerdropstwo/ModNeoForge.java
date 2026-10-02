@@ -1,10 +1,10 @@
-package com.natamus.shulkerdropstwo;
+package com.serilum.shulkerdropstwo;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.shulkerdropstwo.neoforge.config.IntegrateNeoForgeConfig;
-import com.natamus.shulkerdropstwo.neoforge.events.NeoForgeShulkerEvent;
-import com.natamus.shulkerdropstwo.util.Reference;
+import com.serilum.shulkerdropstwo.neoforge.config.IntegrateNeoForgeConfig;
+import com.serilum.shulkerdropstwo.neoforge.events.NeoForgeShulkerEvent;
+import com.serilum.shulkerdropstwo.util.Reference;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModLoadingContext;

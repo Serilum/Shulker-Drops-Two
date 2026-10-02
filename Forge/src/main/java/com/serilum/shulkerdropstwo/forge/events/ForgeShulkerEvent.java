@@ -1,6 +1,6 @@
-package com.natamus.shulkerdropstwo.forge.events;
+package com.serilum.shulkerdropstwo.forge.events;
 
-import com.natamus.shulkerdropstwo.events.ShulkerEvent;
+import com.serilum.shulkerdropstwo.events.ShulkerEvent;
 import net.minecraft.world.entity.Entity;
 import net.minecraftforge.event.entity.living.LivingDropsEvent;
 import net.minecraftforge.eventbus.api.bus.BusGroup;

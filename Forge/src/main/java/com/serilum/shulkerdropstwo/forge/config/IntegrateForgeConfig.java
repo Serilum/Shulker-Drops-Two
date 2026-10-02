@@ -1,7 +1,7 @@
-package com.natamus.shulkerdropstwo.forge.config;
+package com.serilum.shulkerdropstwo.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.shulkerdropstwo.util.Reference;
+import com.serilum.shulkerdropstwo.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 
