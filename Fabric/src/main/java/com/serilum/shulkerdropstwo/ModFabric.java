@@ -1,10 +1,10 @@
-package com.natamus.shulkerdropstwo;
+package com.serilum.shulkerdropstwo;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveEntityEvents;
-import com.natamus.shulkerdropstwo.events.ShulkerEvent;
-import com.natamus.shulkerdropstwo.util.Reference;
+import com.serilum.shulkerdropstwo.events.ShulkerEvent;
+import com.serilum.shulkerdropstwo.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.entity.Entity;

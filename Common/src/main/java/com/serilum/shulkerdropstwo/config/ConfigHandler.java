@@ -1,7 +1,7 @@
-package com.natamus.shulkerdropstwo.config;
+package com.serilum.shulkerdropstwo.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.shulkerdropstwo.util.Reference;
+import com.serilum.shulkerdropstwo.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;
