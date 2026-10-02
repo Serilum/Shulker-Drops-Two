@@ -1,7 +1,7 @@
-package com.natamus.shulkerdropstwo.fabric.config;
+package com.serilum.shulkerdropstwo.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.shulkerdropstwo.util.Reference;
+import com.serilum.shulkerdropstwo.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 
