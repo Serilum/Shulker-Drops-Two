@@ -1,7 +1,7 @@
-package com.natamus.shulkerdropstwo.events;
+package com.serilum.shulkerdropstwo.events;
 
 import com.natamus.collective.functions.TaskFunctions;
-import com.natamus.shulkerdropstwo.config.ConfigHandler;
+import com.serilum.shulkerdropstwo.config.ConfigHandler;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.entity.Entity;

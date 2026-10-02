@@ -1,10 +1,10 @@
-package com.natamus.shulkerdropstwo;
+package com.serilum.shulkerdropstwo;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.shulkerdropstwo.forge.config.IntegrateForgeConfig;
-import com.natamus.shulkerdropstwo.forge.events.ForgeShulkerEvent;
-import com.natamus.shulkerdropstwo.util.Reference;
+import com.serilum.shulkerdropstwo.forge.config.IntegrateForgeConfig;
+import com.serilum.shulkerdropstwo.forge.events.ForgeShulkerEvent;
+import com.serilum.shulkerdropstwo.util.Reference;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.ModLoadingContext;
@@ -32,7 +32,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	MinecraftForge.EVENT_BUS.register(ForgeShulkerEvent.class);
+		MinecraftForge.EVENT_BUS.register(ForgeShulkerEvent.class);
 	}
 
 	private static void setGlobalConstants() {

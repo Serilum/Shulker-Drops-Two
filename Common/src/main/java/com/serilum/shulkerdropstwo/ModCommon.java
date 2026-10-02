@@ -1,6 +1,6 @@
-package com.natamus.shulkerdropstwo;
+package com.serilum.shulkerdropstwo;
 
-import com.natamus.shulkerdropstwo.config.ConfigHandler;
+import com.serilum.shulkerdropstwo.config.ConfigHandler;
 
 public class ModCommon {
 
